@@ -1,0 +1,258 @@
+/* body {
+    background-color: #111111;
+} */
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  border: 2px solid #007bff;
+  border-radius: 4px;
+  padding: 10px;
+  border-left-style: solid;
+  border-bottom-style: hidden;
+}
+.btn-secondary {
+  background-color: #6c757d;
+  color: white;
+  border: 2px solid #6c757d;
+  border-radius: 4px;
+  padding: 10px 11px;
+  border-left-style: solid;
+  border-bottom-style: hidden;
+}
+.btn-success{
+    background-color: #28a745;
+    color: white;
+    border: 2px solid #28a745;
+    border-radius: 4px;
+    padding: 10px 7px;
+    border-left-style: solid;
+    border-bottom-style: hidden;
+}
+.btn-danger{
+    background-color: #dc3545;
+    color: white;
+    border: 2px solid #dc3545;
+    border-radius: 4px;
+    padding: 10px 9px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-warning{
+    background-color: #e0a800;
+    color: rgb(0, 0, 0);
+    border: 2px solid #e0a800;
+    border-radius: 4px;
+    padding: 10px 10px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-info{
+    background-color: #17a2b8;
+    color: rgb(255, 255, 255);
+    border: 2px solid #17a2b8;
+    border-radius: 4px;
+    padding: 10px 10px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-light{
+    background-color: #f8f9fa;
+    color: rgb(0, 0, 0);
+    border: 2px solid #f8f9fa;
+    border-radius: 4px;
+    padding: 10px 10px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-dark{
+    background-color: #343a40;
+    color: rgb(255, 255, 255);
+    border: 2px solid #343a40;
+    border-radius: 4px;
+    padding: 11px 11px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-link{
+    background-color: #ffffff;
+    color: #007bff;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    padding: 11px 11px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-primarylio{
+    background-color: #007bff;
+    color: #ffffff;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    padding: 9px 9px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-primaryNo{
+    background-color: #007bff;
+    color: #ffffff;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    padding: 9px 12px;
+    border-left-style: solid;
+    border-bottom-style: hidden
+}
+.btn-primarysa{
+    background-color: #007bff;
+    color: #ffffff;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    padding: 9px 11px;
+    border-left-style: solid;
+    border-bottom-style: hidden   
+}
+.btn-primaryns{
+    background-color: #007bff;
+    color: #ffffff;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    padding: 9px 14px;
+    border-left-style: solid;
+    border-bottom-style: hidden   
+}
+.btn-primarybe{
+    background-color: #007bff;
+    color: #ffffff;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    padding: 9px 10px;
+    border-left-style: solid;
+    border-bottom-style: hidden 
+}
+.btnprimary {
+    background-color: #007bff;
+    color: #007bff;
+    border: 1px solid #007bff;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 10px;
+    transition: all .5s ease;
+}
+.btnprimary:hover {
+    color: #ffffff;
+    background-color: #007bff;
+}
+.btsecondary{
+    background-color: #ffffff;
+    color: #6c757d;
+    border: 1px solid #6c757d;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 10px 11px;
+    transition: all .5s ease;
+}
+.btsecondary:hover {
+    color: #ffffff;
+    background-color: #6c757d;
+}
+.btnsuccess{
+    background-color: #ffffff;
+    color: #28a745;
+    border: 1px solid #28a745;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 10px 9px;
+    transition: all .5s ease;
+}
+.btnsuccess:hover {
+    color: #ffffff;
+    background-color: #28a745;
+}
+.btndanger{
+    background-color: #ffffff;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 9px 9px;
+    transition: all .5s ease;
+}
+.btndanger:hover {
+    color: #ffffff;
+    background-color: #dc3545;
+}
+.btnwarning{
+    background-color: #ffffff;
+    color: #ffc107;
+    border: 1px solid #ffc107;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 9px 13px;
+    transition: all .5s ease;
+}
+.btnwarning:hover {
+    color: #ffffff;
+    background-color: #ffc107;
+}
+.btninfo{
+    background-color: #ffffff;
+    color: #17a2b8;
+    border: 1px solid #17a2b8;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 9px 9px;
+    transition: all .5s ease;
+}
+.btninfo:hover {
+    color: #ffffff;
+    background-color: #17a2b8;
+}
+.btnlight{
+    background-color: #ffffff;
+    color: #c8cccc;
+    border: 1px solid #bbbbbb;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 9px 9px;
+    transition: all .5s ease;
+}
+.btnlight:hover {
+    color: #ffffff;
+    background-color: #727272;
+}
+.btndark{
+    background-color: #ffffff;
+    color: #2b2c2c;
+    border: 1px solid #000000;
+    border-left-style: solid;
+    /* text-transform: uppercase; */
+    background-color : transparent;
+    border-radius: 4px;
+    padding: 9px 9px;
+    transition: all .5s ease;
+}
+.btndark:hover {
+    color: #ffffff;
+    background-color: #313131;
+}
+.digi{
+    background-color: #ff0022;
+    color: #ffffff;
+    border: 1px solid #ef4056;
+    border-left-style: solid;
+    border-radius: 9px;
+    padding: 11px 70px;
+    transition: all .5s ease;
+}
