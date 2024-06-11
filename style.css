@@ -137,6 +137,7 @@
     border-radius: 4px;
     padding: 10px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btnprimary:hover {
     color: #ffffff;
@@ -152,6 +153,7 @@
     border-radius: 4px;
     padding: 10px 11px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btsecondary:hover {
     color: #ffffff;
@@ -167,6 +169,7 @@
     border-radius: 4px;
     padding: 10px 9px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btnsuccess:hover {
     color: #ffffff;
@@ -182,6 +185,7 @@
     border-radius: 4px;
     padding: 9px 9px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btndanger:hover {
     color: #ffffff;
@@ -197,6 +201,7 @@
     border-radius: 4px;
     padding: 9px 13px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btnwarning:hover {
     color: #ffffff;
@@ -212,6 +217,7 @@
     border-radius: 4px;
     padding: 9px 9px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btninfo:hover {
     color: #ffffff;
@@ -227,6 +233,7 @@
     border-radius: 4px;
     padding: 9px 9px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btnlight:hover {
     color: #ffffff;
@@ -242,6 +249,7 @@
     border-radius: 4px;
     padding: 9px 9px;
     transition: all .5s ease;
+    cursor: pointer;
 }
 .btndark:hover {
     color: #ffffff;
